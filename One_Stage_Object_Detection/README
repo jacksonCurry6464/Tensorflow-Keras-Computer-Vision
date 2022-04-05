@@ -1,0 +1,22 @@
+#Biweekly Report 7:
+
+THIS REPOSITORY IS IDENTICAL FOR BOTH SIMON JULIEN AND JACKSON CURRY AS THEY COLLAORATED ON ALL FILES
+
+##yoloOneStageObjectDetection (1) - 
+In this notebook we learn how to work with and use YOLOv4 and darknet. We investigate a number of different things
+including how to adapt Google's Open Images Dataset V6 to be used with YOLO, how adjusting the threshold for YOLO impacts results, 
+and applied YOLO to some a driving scenario as well as some personal photos/videos!
+
+##outputfinalCrash.mp4 - 
+This is the final output of a car crash video that we found on video.  This highlights the real-time, reasonably accurate performance 
+ability of YOLO on a random video!
+
+##jacksonSkiing.mp4 - 
+This is a video we did just for fun where YOLO was able identify jackson and his skis while riding!
+
+
+##FacialRecognition_Implementation.ipynb - 
+In this notebook we implemented facenet facial recongnition by integrating pretrained weights from face_recognition to our inception model. The facial recognition program executes facial location and two methods of facial recognition. First, the we execute a classification method that compares a difference metric (associated with the loss funciton) to match the face in question to a face in a database that we know the identity of. The second method does not require this one to one classification and is able to compare the resulting difference metric of the image in question to all identities and identify the name of the face. The data we used to execute this program is downloaded images (of equivalent size) of a few well known celebrities. 
+
+
+Thanks for a great semester!
