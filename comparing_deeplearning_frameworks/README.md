@@ -1,9 +1,7 @@
-# Biweekly Report
 # Jackson, Curry
 
 # Overview
-As a user with very little experience with Pytorch, Tensorflow, and Scikit-learn my main objective for this first report is to compare each of these three frameworks to find the one that I want to primarily use throughout the remainder of the semester.  The end product of my work for this period is to come up with a
-guide that other new users would find helpful when deciding which deep learning framework to use for their specific purpose.
+The end product of my work for in this folder is to create a guide that new users would find helpful when deciding which deep learning framework to use (Tensorflow vs PyTorch vs scikitlearn) for their specific purpose.
 
 ## ComparingFrameworks.ipynb
 Throughout this report I exclusively use the cifar10 dataset.  I first do a general exploration of the dataset with several visualizations that allow me to gain more insight into the dataset.  Next I implement general classification models for this dataset using each of the 3 frameworks (tensorflow/keras, scikit-learn, and pytorch).  
