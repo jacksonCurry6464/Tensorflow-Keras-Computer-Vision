@@ -10,3 +10,7 @@ One highlight from this project was being able to use YOLOv4 and tensorflow to i
 
 <img width="444" alt="Screen Shot 2022-04-05 at 2 59 46 PM" src="https://user-images.githubusercontent.com/77595308/161848749-58c7d095-ba15-429b-aac9-6bea68215ac4.png">
 
+### 2. Knowledge Distillation
+
+![image](https://user-images.githubusercontent.com/77595308/163070822-4d30819c-b90f-43e5-b322-ac128788cd31.png)
+
