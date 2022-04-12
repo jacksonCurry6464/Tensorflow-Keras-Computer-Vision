@@ -16,9 +16,7 @@ One highlight from this project was being able to use YOLOv4 and tensorflow to i
 
 ### 3. Optical_Flow_and_Pose_Estimation
 
-https://user-images.githubusercontent.com/77595308/163071032-7781f9a6-e824-4c4a-ae6f-e0eb24e82a5a.mp4
 
-https://user-images.githubusercontent.com/77595308/163071058-8c7c82d7-2d0d-44aa-9adc-a593a4fc2122.mp4
 
 ### 4. Single_Pixel_Attacks
 ![image](https://user-images.githubusercontent.com/77595308/163071537-5a9562a5-254f-4510-bf33-25f9b4cd6687.png)
