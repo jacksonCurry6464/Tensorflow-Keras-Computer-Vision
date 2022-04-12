@@ -10,7 +10,29 @@ One highlight from this project was being able to use YOLOv4 and tensorflow to i
 
 <img width="444" alt="Screen Shot 2022-04-05 at 2 59 46 PM" src="https://user-images.githubusercontent.com/77595308/161848749-58c7d095-ba15-429b-aac9-6bea68215ac4.png">
 
-### 2. Knowledge Distillation
+### 2. Knowledge_Distillation
 
 ![image](https://user-images.githubusercontent.com/77595308/163070822-4d30819c-b90f-43e5-b322-ac128788cd31.png)
 
+### 3. Optical_Flow_and_Pose_Estimation
+
+https://user-images.githubusercontent.com/77595308/163071032-7781f9a6-e824-4c4a-ae6f-e0eb24e82a5a.mp4
+
+https://user-images.githubusercontent.com/77595308/163071058-8c7c82d7-2d0d-44aa-9adc-a593a4fc2122.mp4
+
+### 4. Single_Pixel_Attacks
+![image](https://user-images.githubusercontent.com/77595308/163071537-5a9562a5-254f-4510-bf33-25f9b4cd6687.png)
+
+### 5. Transfer_Learning_and_Unet
+![image](https://user-images.githubusercontent.com/77595308/163071893-484dfd73-b56a-4c4b-928c-62d5a0352e38.png)
+
+### 6. cifar10ImageAugmentation-RandomErasing
+![image](https://user-images.githubusercontent.com/77595308/163071617-04ce5086-1619-45de-b5d2-b64f8380520c.png)
+
+
+### 7. comparing_deeplearning_frameworks
+![image](https://user-images.githubusercontent.com/77595308/163072055-18360e16-0d9b-45a2-bd1a-6f77e1df391b.png)
+![image](https://user-images.githubusercontent.com/77595308/163072081-66539e32-ae79-4c50-b62a-b2a0e875e4e0.png)
+
+
+![image](https://user-images.githubusercontent.com/77595308/163070822-4d30819c-b90f-43e5-b322-ac128788cd31.png)
