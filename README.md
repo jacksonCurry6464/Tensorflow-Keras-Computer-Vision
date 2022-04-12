@@ -3,7 +3,7 @@ This repository contains a host of computer vision projects that I have done usi
 
 Each subfolder will have an explanation of the topic I am researching at the time, and then 1 or more jupyter notebooks where I perform EDA on various data sets and implement/fine-tune existing deep learning models.
 
-## Below I have some visual highlights from each of the folders:
+## Below I have some visual highlights from each of the folders: (still in progress but feel free to check folders to see all results)
 
 ### 1. FacialRecognition:ObjectDetection
 One highlight from this project was being able to use YOLOv4 and tensorflow to identify (and bound) myself along with my skis!  I extended this to work for videos as well and I have tested it on personal skiing videos as well as traffic videos.
