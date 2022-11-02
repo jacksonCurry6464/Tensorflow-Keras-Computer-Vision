@@ -20,7 +20,7 @@ One highlight from this project was being able to use YOLOv4 and tensorflow to i
 
 
 ### 4. Single_Pixel_Attacks
-![image](https://user-images.githubusercontent.com/77595308/163071537-5a9562a5-254f-4510-bf33-25f9b4cd6687.png)
+![image](https://user-images.githubusercontent.com/77595308/199556078-ea318b48-f6c5-451f-849d-26d9e8adc81f.png)
 
 ### 5. Transfer_Learning_and_Unet
 ![image](https://user-images.githubusercontent.com/77595308/163071893-484dfd73-b56a-4c4b-928c-62d5a0352e38.png)
