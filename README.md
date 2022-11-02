@@ -5,7 +5,7 @@ Each subfolder will have an explanation of the topic I am researching at the tim
 
 ## Below I have some visual highlights from each of the folders:
 
-### 1. FacialRecognition:ObjectDetection
+### 1. ObjectDetection
 One highlight from this project was being able to use YOLOv4 and tensorflow to identify (and bound) myself along with my skis!  I extended this to work for videos as well and I have tested it on personal skiing videos as well as traffic videos.
 
 <img width="444" alt="Screen Shot 2022-04-05 at 2 59 46 PM" src="https://user-images.githubusercontent.com/77595308/161848749-58c7d095-ba15-429b-aac9-6bea68215ac4.png">
