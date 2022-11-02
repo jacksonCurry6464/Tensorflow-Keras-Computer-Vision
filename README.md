@@ -31,7 +31,3 @@ One highlight from this project was being able to use YOLOv4 and tensorflow to i
 
 ### 7. comparing_deeplearning_frameworks
 ![image](https://user-images.githubusercontent.com/77595308/163072055-18360e16-0d9b-45a2-bd1a-6f77e1df391b.png)
-![image](https://user-images.githubusercontent.com/77595308/163072081-66539e32-ae79-4c50-b62a-b2a0e875e4e0.png)
-
-
-![image](https://user-images.githubusercontent.com/77595308/163070822-4d30819c-b90f-43e5-b322-ac128788cd31.png)
